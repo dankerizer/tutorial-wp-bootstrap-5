@@ -9,3 +9,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Version : 1.0
 Tags: Bootstrap, responsive, mobile ready, black,white, one column, two column, custom-background
 */
+body{
+    background: #245269;
+}
